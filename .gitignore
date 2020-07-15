@@ -1,0 +1,11 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/Exercises/.vs/Exercises/v16
+/Exercises/bin/Debug/netcoreapp3.1
+/Exercises/obj
+/UnitTests/bin/Debug/netcoreapp3.1
+/UnitTests/obj
+/.vs/Exercises/v16
+/Exercises/.vs/Exercises/DesignTimeBuild
